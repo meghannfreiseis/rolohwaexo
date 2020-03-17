@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aekiexeey.beauwoods.com/sitemap.xml
